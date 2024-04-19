@@ -9,7 +9,7 @@ PyPoll
 This code was inspired from a post i saw on Stack Overflow
 https://stackoverflow.com/questions/12282232/how-do-i-count-occurrence-of-unique-values-inside-a-list
 
-# complete list of candidates who received votes
+complete list of candidates who received votes
 names = {}
 for item in candidates:
     names[item] = names.get(item, 0) + 1
