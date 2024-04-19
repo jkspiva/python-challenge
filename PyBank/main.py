@@ -17,7 +17,7 @@ with open(csvpath) as csvfile:
     csvreader = csv.reader(csvfile, delimiter=',')
 
     # skip header row
-    header = next(csvfile)
+    header = next(csvreader)
 
     # start reading from row after header row     
     for row in csvreader:
