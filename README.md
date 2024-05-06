@@ -6,7 +6,11 @@ I had to look up the average percentage change formula since this is something I
 I wasn't sure of how to add the parantheses around the Greatest Increase and Decrease in Profits on my txt file, so those were left out. 
 
 PyPoll
-This code was inspired from a post i saw on Stack Overflow
+
+There is a "main_revised.py" file and a "main.py" file. My original submission is the "main.py" file. However the central grader said that they were not able to get the file to run... and I needed to resubmit my assignment. Therefore I left the original file intact and am now uploading a revised file with updated scripts.
+
+
+This code was inspired from a post I saw on Stack Overflow
 https://stackoverflow.com/questions/12282232/how-do-i-count-occurrence-of-unique-values-inside-a-list
 
 complete list of candidates who received votes
